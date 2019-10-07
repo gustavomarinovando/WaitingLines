@@ -19,7 +19,7 @@ These programs are for the next 6 basic models:
 Usage depends on the model, it's explained in the first page of each file.  
 
 # Teoría de Colas  
-The models follow the Kendall Lee Notation:  
+Los modelos siguen la Notación Kendall Lee:  
 (a/b/c/d/e/f)  
 * **a** Razón de Interarribo Distribución Poisson  
 * **b** Razón de Servicio Distribución Exponencial  
